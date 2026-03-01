@@ -1,0 +1,616 @@
+@font-face{
+    font-family: Poppins-Regular;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face{
+    font-family: PlusJakartaSans-Regular;
+    src: url(../fonts/PlusJakartaSans-Regular.ttf);
+}
+
+@font-face{
+    font-family: PlusJakartaSans-SemiBold;
+    src: url(../fonts/PlusJakartaSans-SemiBold.ttf);
+}
+
+@font-face{
+    font-family: PlusJakartaSans-Medium;
+    src: url(../fonts/PlusJakartaSans-Medium.ttf);
+}
+
+@font-face{
+    font-family: PlusJakartaSans-Bold;
+    src: url(../fonts/PlusJakartaSans-Bold.ttf);
+}
+
+.container{
+    width: 1920px;
+    height: 8652px;
+    margin: 0 auto;
+}
+
+.logot{
+    display: flex;
+}
+
+.logo{
+    width: 2.8825em;
+    height: 3.625em;
+    margin-top: 20px;
+    margin-left: 286.94px;
+}
+
+.nazvani{
+    font-family: Poppins-Regular;
+    font-size: 1.875em;
+    margin-left: 20.94px;
+    margin-top: 26px;
+}
+
+.home{
+    color: #303030;
+    font-family: PlusJakartaSans-Regular;
+    font-size: 1.125em;
+    margin-left: 393px;
+    margin-top: 37px
+}
+
+.home:active{
+    color: #31815E;
+}
+
+.ver{
+    font-family: PlusJakartaSans-Regular;
+    font-size: 1.125em;
+    color: #303030;
+    margin-left: 50px;
+    margin-top: 38px;
+}
+
+.ver:active{
+    color: #31815E;
+}
+
+.ver1{
+    font-family: PlusJakartaSans-Regular;
+    font-size: 1.125em;
+    color: #303030;
+    margin-left: 55px;
+    margin-top: 38px;
+}
+
+.ver1:active{
+    color: #31815E;
+}
+
+.snt {
+    font-family: PlusJakartaSans-Regular;
+    font-size: 0.89em;
+    color: white;
+}
+
+.shop{
+    margin-top: 21px;
+    margin-left: 76px;
+}
+
+.sn{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 44px;
+    margin-top: 16px; 
+    position: absolute;
+}
+
+.list{
+    display: flex;
+}
+.list1{
+    margin-left: 197px;
+    margin-top: 40px;
+}
+
+.list2{
+    margin-left: 569.05px;
+    margin-top: 22px;
+}
+
+.list3{
+    margin-left: 706.33px;
+    margin-top: 36px;
+}
+
+.tx{
+    margin-top: 98.2px;
+    margin-left: 285px;
+}
+
+.pla{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 65px;
+    margin-bottom: 0px;
+}
+
+.nad{
+    margin-left: 117.24px;
+}
+
+.text{
+    font-family: PlusJakartaSans-Regular;
+    font-size: 16px;
+    color: #726E6E;
+    width: 545px;
+    line-height: 25px;
+}
+
+.list4{
+    margin-left: 107px;
+    margin-top: 93px;
+}
+
+.knopk{
+    display: flex;
+    margin-left: 285px;
+}
+.atc{
+    font-family: PlusJakartaSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 30px;
+    margin-top: 16px; 
+    position: absolute;
+}
+
+.lm{
+    font-family: PlusJakartaSans-Regular;
+    font-size: 16px;
+    color: #31815E;
+    margin-left: 44px;
+    margin-top: 16px; 
+    position: absolute;
+}
+
+.learn_more{
+    margin-left: -13px;
+}
+
+.tzvetok{
+    display: flex;
+}
+
+.teny{
+    position: absolute;
+    margin-left: 946.68px;
+    margin-top: -500px;
+}
+
+.rasten{
+    position: absolute;
+    margin-left: 1087px;
+    margin-top: -509px;
+}
+
+.fon{
+    position: absolute;
+    margin-left: 1001px;
+    margin-top: -443px;
+}
+
+.list5{
+    position: absolute;
+    margin-left: 1726.68px;
+    margin-top: 171.14px;
+}
+
+.obvod{
+    position: absolute;
+    margin-top: -452px;
+    margin-left: 991px;
+}
+
+.block{
+    background-color: #31815E0D;
+    width: 430px;
+    height: 163px;
+    margin-left: 285px;
+    margin-top: 594px;
+    border-radius: 20px;
+}
+
+.block1{
+    background-color: #31815E0D;
+    width: 430px;
+    height: 163px;
+    margin-left: 30px;
+    margin-top: 594px;
+    border-radius: 20px;
+}
+
+.t1{
+    font-family: PlusJakartaSans-Medium;
+    font-size: 16px;
+    color: #7E7E7E;
+    margin-left: 27px;
+    margin-top: 26px;
+}
+
+.t2{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 24px;
+    margin-top: -8px;
+    margin-left: 30px;
+}
+
+.t3{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 16px;
+    width: 104px;
+    margin-top: -6px;
+    margin-left: 30px;
+    color: #31815E;
+    border-bottom: #31815E 1px solid;
+}
+
+.r{
+    position: absolute;
+    margin-left: 245px;
+    margin-top: -329px;
+
+}
+
+.e75{
+    margin-left: 241px;
+    margin-top: -40px;
+}
+
+.r1{
+    margin-top: -329px;
+    margin-left: 181px;
+    margin-bottom: 33px;
+}
+
+.e73{
+    margin-left: 240px;
+    margin-top: -80px;
+}
+
+.r2{
+    margin-left: 176px;
+    margin-bottom: 33px;
+    margin-top: -329px;
+}
+
+.list6{
+    margin-top: 142px;
+    margin-left: 224px;
+    position: absolute;
+}
+
+.list7{
+    margin-top: 128px;
+    margin-left: 1720px;
+}
+
+.f{
+   margin-top: 42.24px; 
+}
+
+.f1{
+    position: absolute;
+    margin-top: 32.24px; 
+}
+
+.list8{
+    position: absolute;
+    margin-top: 456.31px;
+    margin-left: 265px;
+}
+
+.re2{
+    position: absolute;
+    margin-left: 363px;
+    margin-top: -80px;
+}
+
+.list9{
+    position: absolute;
+    margin-left: 762px;
+    margin-top: 129.31px;
+}
+
+.e6{
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 515px;
+}
+
+.block2{
+    margin-top: 91px;
+    margin-left: 128px;
+    width: 689px;
+    height: 348px;
+}
+
+.tx4{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 42px;
+}
+
+.tx5{
+    font-family: PlusJakartaSans-Regular;
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: -30px;
+}
+
+.tx6{
+    font-family: PlusJakartaSans-Regular;
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: -11px;
+}
+
+.re5{
+    margin-top: 22px;
+}
+
+.rm{
+    position: absolute;
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 16px;
+    margin-left: 30px;
+    margin-top: -44px;
+    color: #FFFFFF;
+}
+
+.g52{
+    margin-top: 120px;
+}
+
+.mpa{
+    display: flex;
+    height: 178px;
+}
+
+.mp{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 42px;
+    margin-top: 127px;
+    margin-left: 285px;
+}
+
+.vm{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 16px;
+    margin-top: 138px;
+    margin-left: 978px;
+    width: 82px;
+    color: #31815E;
+    border-bottom: #31815E 1px solid;
+}
+
+.st{
+    position: absolute;
+    margin-left: 1064px;
+    margin-top: -31px;
+}
+
+.block3{
+    width: 430px;
+    height: 401px;
+    border-radius: 40px;
+    background-color: #31815E1A;
+    margin-top: 156px;
+    margin-left: 285px;
+}
+
+.block45{
+    width: 430px;
+    height: 401px;
+    border-radius: 40px;
+    background-color: #31815E1A;
+    margin-top: 156px;
+    margin-left: 30px;
+}
+
+.flower{
+    margin-top: -96px;
+    margin-left: 59px;
+}
+
+
+.teny1{
+    margin-top: -30px;
+    margin-left: 127px;
+}
+
+.eled{
+    width: 280px;
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 22px; 
+    margin-left: 40px;  
+    margin-top: -13px;
+}
+
+.star{
+    margin-top: -7px;
+    margin-left: 40px;
+    position: absolute;
+}
+
+.now{
+    font-family: PlusJakartaSans-Bold;
+    font-size: 20px;
+    color: #31815E;
+    margin-left: 40px;
+}
+
+.earlier{
+    font-family: PlusJakartaSans-Bold;
+    font-size: 20px;
+    color: #D1D1D1;
+    margin-left: 23px;
+}
+
+.flower1{
+    margin-top: -96px;
+    margin-left: 153px;    
+}
+
+.flower2{
+    margin-top: -96px;
+    margin-left: 90px;    
+}
+
+.list10{
+    margin-top: 182px;
+    margin-left: 76px;
+    position: absolute;
+}
+
+.hto{
+    height: 40px;
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 42px;
+    margin-top: 259px;
+    margin-left: 287px;
+}
+
+.krug{
+    width: 48px;
+    height: 48px;
+    background-color: #31815E1A;
+    border-radius: 100px;
+    margin-left: 286px;
+}
+
+.t4{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 18px;
+    margin-left: 18px;
+    margin-top: 13px;
+}
+
+.cp{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 20px;
+    width: 158px;
+    height: 25px;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+.look{
+    font-family: PlusJakartaSans-Regular;
+    font-size: 16px;
+    width: 417px;
+    height: 48px;
+    margin-left: 15px;
+    margin-top: -4px;
+}
+
+.po{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 20px;
+    width: 158px;
+    height: 25px;
+    margin-left: 15px;
+    margin-top: 3px;
+}
+
+.t5{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 18px;
+    margin-left: 19px;
+    margin-top: 14px;
+}
+
+.ry{
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 20px;
+    width: 185px;
+    height: 25px;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+.be{   
+    font-family: PlusJakartaSans-Regular;
+    font-size: 16px;
+    width: 421px;
+    height: 48px;
+    margin-left: 15px;
+    margin-top: -8px;
+}
+
+.rec4{
+    margin-top: 22px;
+    margin-left: 286px;
+}
+
+.on{
+    position: absolute;
+    font-family: PlusJakartaSans-SemiBold;
+    font-size: 16px;
+    margin-top: -42px;
+    margin-left: 316px;
+    color: #FFFFFF;
+}
+
+.list11{
+    position: absolute;
+    margin-left: 549.67px;
+    margin-top: -30px;
+}
+
+.block6{
+    margin-left: 203px;
+    margin-top: 333px;
+}
+
+/* .block61{
+    position: absolute;
+    margin-left: -957px;
+    margin-top: -412px;
+} */
+
+/* .list12{
+    position: absolute;
+    margin-left: -948px;
+    margin-top: -313px;
+} */
+
+/* .flower3{
+    position: absolute;
+    margin-top: -615px;
+    margin-left: -970px;
+} */
+
+/* .teny2{
+    position: absolute;
+    margin-left: -805px;
+} */
+
+/* .list13{
+    position: absolute;
+    margin-left: -415px;
+    margin-top: -499px;
+} */
+
+/* .list14{
+    position: absolute;
+    margin-left: -439px;
+    margin-top: 14px;
+} */
+
+.list15{
+    margin-left: 293px;
+    margin-top: 123px;
+}
+
+.re12{
+    position: absolute;
+    margin-top: 346px;
+    margin-left: -353px;
+}
