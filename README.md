@@ -1,2 +1,0 @@
-# platino
-verstka
